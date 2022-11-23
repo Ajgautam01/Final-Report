@@ -1,3 +1,3 @@
-**# Week 1 Install Android Studio**
+**# Week 1#  Installation Ubuntu and Android Studio **
 
 follow this for 
