@@ -23,9 +23,7 @@ The updates and third-party software installation requires a functioning interne
 
 For this demo, I decided to do the Ubuntu Normal installation.
 
-6.  Create Partitions
-
-At this point, if you have an empty hard disk then you will get only two options in the installation type. If you have installed other OS already in your system then you will get more options accordingly.
+6.  **Create Partitions :** At this point, if you have an empty hard disk then you will get only two options in the installation type. If you have installed other OS already in your system then you will get more options accordingly.
 
 Because we want to set up partitions manually so choose Something else and click Continue.
 on this screen, the installer will list all the accessible hard disks.
