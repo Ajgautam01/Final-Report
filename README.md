@@ -1,4 +1,4 @@
-**# Week 1 Installation Ubuntu and Android Studio **
+**#Week 1 Installation Ubuntu and Android Studio**
 
 1.   **Download Ubuntu** You can download the latest version of the Ubuntu desktop iso image from the Ubuntu website.(https://ubuntu.com/download/desktop)
 2.  **Create a bootable USB disk :** Use Universal USB Installer (BIOS compatible) or Rufus (UEFI compatible) to make a bootable USB disk
