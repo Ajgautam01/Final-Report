@@ -113,7 +113,10 @@ for uninstall of android studio - sudo snap remove android-studio
  Do task in django python
  
   # Week 4 Python 
- Do task in django python
+ Doing Backend django python Assingment
+ 
+ # Week 5 install nodejs and React
+ ### Follow Guide of nodejs and rect in Ubuntu
  
  
 
