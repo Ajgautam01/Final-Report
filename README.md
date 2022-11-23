@@ -5,7 +5,8 @@
 3.  **Boot from bootable USB :** Power on your system and press the ESC, F2, F10, F12, or DEL key to select the boot order.
 
 Then, you need to select boot from USB or removable drive and to boot from USB.
-4.**Preparing to Install Ubuntu :** Ubuntu image will begin to load. Do not interrupt the booting of the Ubuntu image.When the system is completely booted from Live USB, you will get the OS installer that looks like below.
+
+4.  **Preparing to Install Ubuntu :** Ubuntu image will begin to load. Do not interrupt the booting of the Ubuntu image.When the system is completely booted from Live USB, you will get the OS installer that looks like below.
 
 To install Ubuntu, click on the Install Ubuntu button.
 Choose your keyboard layout. In case, if you don't know about your keyboard layout, use the Detect Keyboard Layout option. 
