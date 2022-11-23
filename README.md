@@ -78,7 +78,7 @@ When the system is restarted, you will get a login window. Sign in to your syste
 
 # Week 2 Installation of Android Studio
 
-###Installation Guide of Gladiater Project
+### Installation Guide of Gladiater Project
 
 *Installation of Android studio*
 * step - sudo apt install snapd
