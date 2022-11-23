@@ -116,7 +116,9 @@ for uninstall of android studio - sudo snap remove android-studio
  Doing Backend django python Assingment
  
  # Week 5 install nodejs and React
- ### Follow Guide of nodejs and rect in Ubuntu
+ ### Follow Installation Guide of nodejs or npm and rect in Ubuntu 
+ watching React tutorial of code with Harry on YOUTUBE
+ 
  
  
 
