@@ -10,6 +10,7 @@ Then, you need to select boot from USB or removable drive and to boot from USB.
 
 To install Ubuntu, click on the Install Ubuntu button.
 Choose your keyboard layout. In case, if you don't know about your keyboard layout, use the Detect Keyboard Layout option. 
+
 5.  **Normal/Minimal Installation :** On this screen, you need to pick the applications for installation.
 
 *Normal Installation -* You will get a graphical desktop with all standard software.
