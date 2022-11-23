@@ -110,6 +110,11 @@ for uninstall of android studio - sudo snap remove android-studio
  follow Guide Code with Harry Android Studio Tutorial on YOUTUBE  for making First Basic App Unit Converter.
  
  # Week 3 Python 
+ Do task in django python
+ 
+  # Week 4 Python 
+ Do task in django python
+ 
  
 
 
