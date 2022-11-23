@@ -106,5 +106,7 @@ for uninstall of android studio - sudo snap remove android-studio
 * Restart your Android studio
 * Connect your android device with usb cable and make sure your usb debugginng is on. Then choose your device and click on Build Project. Now its takes some time and app is now available to run in your phone.
 
+## First app *unit Converter*
+
 
 
