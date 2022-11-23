@@ -76,7 +76,7 @@ The installation will take near about 10 to 15 minutes. Once the installation is
 
 When the system is restarted, you will get a login window. Sign in to your system with the username and password that you created earlier.
 
-# Week 2 Installation of Android Studio
+# Week 2 Android Studio
 
 ### Installation Guide of Gladiater Project
 
