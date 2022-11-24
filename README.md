@@ -114,10 +114,13 @@ for uninstall of android studio - sudo snap remove android-studio
  Do task in django python
 * Function
 * String
-* 
+* Algorithms
+* Linear or Non-linear Equation
  
  # Week 4 Python 
  Do task in django python
+ * Tuples
+ * Loops
  
   # Week 5 Python 
  Doing Backend django python Assingment
