@@ -112,7 +112,7 @@ for uninstall of android studio - sudo snap remove android-studio
  
  # Week 3 Python 
  Do task in django python
- -
+ -bbnf
  
  # Week 4 Python 
  Do task in django python
