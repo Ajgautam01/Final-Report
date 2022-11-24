@@ -107,22 +107,27 @@ for uninstall of android studio - sudo snap remove android-studio
 * Connect your android device with usb cable and make sure your usb debugginng is on. Then choose your device and click on Build Project. Now its takes some time and app is now available to run in your phone.
 
 ## First Basic App *unit Converter*
- follow Guide Code with Harry Android Studio Tutorial on YOUTUBE  for making First Basic App Unit Converter.
+ follow  Code with Harry Android Studio Tutorial on YOUTUBE  for making First Basic App Unit Converter.
+ The working of unit converter is convert number into Pounds.
  
  # Week 3 Python 
  Do task in django python
+ -
  
-  # Week 4 Python 
+ # Week 4 Python 
+ Do task in django python
+ 
+  # Week 5 Python 
  Doing Backend django python Assingment
  
- # Week 5 install nodejs and React
+ # Week 6 install nodejs and React
  ### Follow Installation Guide of nodejs or npm and rect in Ubuntu 
  watching React tutorial of code with Harry on YOUTUBE
  
- # Week 6 UI/UX 
+ # Week 7 UI/UX 
    Work on Figma for making blueprint of Android app(Todo)
  
- # Week 7 UI/UX 
+ # Week 8 UI/UX 
    Work on Figma for making blueprint of Android app(Todo)
  
  
