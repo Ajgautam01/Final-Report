@@ -129,11 +129,13 @@ for uninstall of android studio - sudo snap remove android-studio
  ### Follow Installation Guide of nodejs or npm and rect in Ubuntu 
  watching React tutorial of code with Harry on YOUTUBE
  
- # Week 7 UI/UX 
-   Work on Figma for making blueprint of Android app(Todo)
+ # Week 7 UI/UX
+ follow UI/UX(Figma) tutorial on YOUTUBE for making blueprint
  
- # Week 8 UI/UX 
-   Work on Figma for making blueprint of Android app(Todo)
+  
+ 
+ # Week 9 UI/UX 
+   Work on Figma for making blueprint of Android app. The aim of blueprint is to make a  better app or reduce work load
  
  
 
