@@ -119,6 +119,11 @@ for uninstall of android studio - sudo snap remove android-studio
  ### Follow Installation Guide of nodejs or npm and rect in Ubuntu 
  watching React tutorial of code with Harry on YOUTUBE
  
+ # Week 6 UI/UX 
+   Work on Figma for making blueprint of Android app(Todo)
+ 
+ # Week 7 UI/UX 
+   Work on Figma for making blueprint of Android app(Todo)
  
  
 
