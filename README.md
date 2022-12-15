@@ -182,7 +182,7 @@ Create a simple, templated Flutter app, using the instructions in Getting Starte
 You’ll mostly edit lib/main.dart, where the Dart code lives.
 
 1. Replace the contents of lib/main.dart.
-Delete all of the code from lib/main.dart. Replace with the following code, which displays “Hello World” in the center of the screen.
+Delete all of the code from lib/main.dart. Replace with the following code, which displays **“Hello World”**  in the center of the screen.
 2. Run the app in the way your IDE describes. You should see either Android, iOS, Windows, Linux, macOS, or web output, depending on your chosen device.
 
  # Week  Python 
