@@ -110,7 +110,7 @@ for uninstall of android studio - sudo snap remove android-studio
  follow  Code with Harry Android Studio Tutorial on YOUTUBE  for making First Basic App Unit Converter.
  The working of unit converter is convert number into Pounds.
  
- # Week  Flutter & Dart 
+ # Week 3 Flutter & Dart 
  ## Flutter
   Flutter provides basic and advanced concepts of the Flutter framework. Flutter is a UI toolkit for building fast, beautiful, natively compiled applications for mobile, web, and desktop with one programing language and single codebase. It is free and open-source. Initially, it was developed from Google and now manages by an ECMA standard. Flutter apps use Dart programming language for creating an app.
  
@@ -141,7 +141,7 @@ You have to close and reopen any existing console windows for these changes to t
 ## Run flutter doctor
 From a console window that has the Flutter directory in the path (see above), run the following command to see if there are any platform dependencies you need to complete the setup (C:\src\flutter>flutter doctor).This command checks your environment and displays a report of the status of your Flutter installation. Check the output carefully for other software you might need to install or further tasks to perform (shown in bold text).
 
-# Week Set up an  Flutter editor
+# Week 4 Set up an  Flutter editor
 You can build apps with Flutter using any text editor combined with Flutter’s command-line tools. However, we recommend using one of our editor plugins for an even better experience. These plugins provide you with code completion, syntax highlighting, widget editing assists, run & debug support, and more.
 
 Use the following steps to add an editor plugin for VS Code, Android Studio, IntelliJ, or Emacs. If you want to use a different editor, that’s OK, skip ahead to the next step: Test drive.
@@ -160,6 +160,19 @@ Validate your setup with the Flutter Doctor
 Invoke View > Command Palette….
 Type “doctor”, and select the Flutter: Run Flutter Doctor.
 Review the output in the OUTPUT pane for any issues. Make sure to select Flutter from the dropdown in the different Output Options.
+
+## Test drive
+To create a new Flutter app from templates, run it, and experience “hot reload” after you make changes to the app.
+
+Select your development tool of choice for writing, building, and running Flutter apps.
+## Create the app
+* Invoke View > Command Palette.
+* Type “flutter”, and select the Flutter: New Project.
+* Select Application.
+* Create or select the parent directory for the new project folder.
+* Enter a project name, such as my_app, and press Enter.
+* Wait for project creation to complete and the main.dart file to appear.
+The above commands create a Flutter project directory called my_app that contains a simple demo app that uses Material Components.
  
  # Week  Python 
  Do task in django python
