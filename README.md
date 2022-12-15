@@ -148,7 +148,7 @@ Use the following steps to add an editor plugin for VS Code, Android Studio, Int
 ## Install VS Code
 VS Code is a lightweight editor with complete Flutter app execution and debug support.
 
-VS Code, latest stable version
+VS Code, latest stable version(https://code.visualstudio.com/)
 
 ## Install the Flutter and Dart plugins
 Start VS Code.
