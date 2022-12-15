@@ -177,7 +177,7 @@ The above commands create a Flutter project directory called my_app that contain
 
 # Week 5  Flutter Tutorial
  Search Tutorial for Beginner on Youtube and Follow the **The Code Ninja** and complete the course.
- After the completing the course going to make First app ** Hello Wolrd** 
+ After the completing the course going to make First app **Hello Wolrd** and  explore and Flutter 
 
 # Week 6 First app in Flutter 
 Create the starter Flutter app
