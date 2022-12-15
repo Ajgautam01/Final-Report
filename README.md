@@ -175,7 +175,11 @@ Select your development tool of choice for writing, building, and running Flutte
 
 The above commands create a Flutter project directory called my_app that contains a simple demo app that uses Material Components.
 
-# Week 5 First app in Flutter 
+# Week 5  Flutter Tutorial
+ Search Tutorial for Beginner on Youtube and Follow the **The Code Ninja** and complete the course.
+ After the completing the course going to make First app ** Hello Wolrd** 
+
+# Week 6 First app in Flutter 
 Create the starter Flutter app
 
 Create a simple, templated Flutter app, using the instructions in Getting Started with your first Flutter app. Name the project startup_namer (instead of flutter_app).
@@ -183,7 +187,8 @@ You’ll mostly edit lib/main.dart, where the Dart code lives.
 
 1. Replace the contents of lib/main.dart.
 Delete all of the code from lib/main.dart. Replace with the following code, which displays **“Hello World”**  in the center of the screen.
-2. Run the app in the way your IDE describes. You should see either Android, iOS, Windows, Linux, macOS, or web output, depending on your chosen device.
+2. Run the app in the way your IDE describes. You should see either Android, iOS, Windows, Linux, macOS, or web output, depending on your chosen device. 
+
 
  # Week  Python 
  Do task in django python
@@ -200,7 +205,7 @@ Delete all of the code from lib/main.dart. Replace with the following code, whic
   # Week  Python 
  Doing Backend django python Assingment
  
- # Week 6 install nodejs and React
+ # Week  install nodejs and React
  ### Follow Installation Guide of nodejs or npm and rect in Ubuntu 
  watching React tutorial of code with Harry on YOUTUBE
  
