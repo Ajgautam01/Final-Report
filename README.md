@@ -176,7 +176,7 @@ Select your development tool of choice for writing, building, and running Flutte
 The above commands create a Flutter project directory called my_app that contains a simple demo app that uses Material Components.
 
 # Week 5 First app in Flutter 
-* Step 1: Create the starter Flutter app
+Create the starter Flutter app
 
 Create a simple, templated Flutter app, using the instructions in Getting Started with your first Flutter app. Name the project startup_namer (instead of flutter_app).
 You’ll mostly edit lib/main.dart, where the Dart code lives.
