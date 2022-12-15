@@ -110,10 +110,13 @@ for uninstall of android studio - sudo snap remove android-studio
  follow  Code with Harry Android Studio Tutorial on YOUTUBE  for making First Basic App Unit Converter.
  The working of unit converter is convert number into Pounds.
  
- # Week  Flutter 
+ # Week  Flutter & Dart 
   Flutter provides basic and advanced concepts of the Flutter framework. Flutter is a UI toolkit for building fast, beautiful, natively compiled applications for mobile, web, and desktop with one programing language and single codebase. It is free and open-source. Initially, it was developed from Google and now manages by an ECMA standard. Flutter apps use Dart programming language for creating an app.
  
  In general, creating a mobile application is a very complex and challenging task. There are many frameworks available, which provide excellent features to develop mobile applications. For developing mobile apps, Android provides a native framework based on Java and Kotlin language, while iOS provides a framework based on Objective-C/Swift language. Thus, we need two different languages and frameworks to develop applications for both OS. Today, to overcome form this complexity, there are several frameworks have introduced that support both OS along with desktop apps. These types of the framework are known as cross-platform development tools.
+ 
+ ## Dart
+ The Dart language is type safe; it uses static type checking to ensure that a variable’s value always matches the variable’s static type. Sometimes, this is referred to as sound typing. Although types are mandatory, type annotations are optional because of type inference. The Dart typing system is also flexible, allowing the use of a dynamic type combined with runtime checks, which can be useful during experimentation or for code that needs to be especially dynamic.
  
  # Week  Python 
  Do task in django python
