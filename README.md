@@ -13,7 +13,7 @@
 *  watching tutorial from Youtube.
 *  follow some  guidelines for making the App.
 *  Create first app unit Converter using Java.
-*  The concept of the App is convertering a amount into Pound.
+*  The concept of the App is converting a amount into Pound.
 
 # week 4 Flutter & Dart
 
