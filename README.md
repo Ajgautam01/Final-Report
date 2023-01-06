@@ -39,8 +39,14 @@
 *  add some other features for eg : item report,add product 
 *  Perform testing app is working is Fine or not.
 
-# week 8  
+# week 8  Bootstrap
+* Study  propertys of Bootstrap FROM (https://getbootstrap.com/).
+* Perform some task's of Bootstrap. (Slide Bar, Containers, Nav Bar & others)
+* Make a Simple form
+* Make stack web page with help of HTML CSS & Bootstrap.
+* Make changes in the Web page with added some new tools.
 
+# week 9 Front-end Development
 
 
 
