@@ -47,6 +47,31 @@
 * Make changes in the Web page with added some new tools.
 
 # week 9 Front-end Development
+* Start creating stack web page template with HTML CSS & BOOTSTRAP
+* Take some help from (https://www.w3schools.com/)
+* 
+* 
+
+
+# week 10  Front-end Development Piano
+* find some content(Prayer's) & background or Images from the internet raleted to the web page.
+* add  Text slideshow.
+* start implimenting content in the web page
+* fetch all page with each other in sequences
+
+# week 11 Front-end Development Piano
+*  learning javascrpit from YOUTUBE.
+* find Audio Clips of Piano 
+* create layout of piano
+* connect audio clips with paino layout
+* Check connectivity & testing of audio clip is working fine or not
+* after testing done connect with prevoiuse web page.
+ 
+# week 12 React
+# week 13 Node.js
+# week 14 Redux
+# week 15 firebase
+# week 16 17 18 E Commerce Web Page
 
 
 
