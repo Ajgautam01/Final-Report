@@ -15,11 +15,13 @@
 *  Create first app unit Converter using Java.
 *  The concept of the App is converting a amount into Pound.
 
-# week 4 Flutter & Dart
-*  watching  tutorial from YOUTUBE 
-*  
+# week 4 Django
+*  Perform Django assignment and task
 
-# week 5 figma
+# week 5 Django
+* Doing Django assigments and task
+
+# week 6 figma
 * Explore figma and check working of each tool. (https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/)
 * Start Making UI/UX(Blueprint) design for App.
 * first create Login or Signup page of Project.
@@ -27,39 +29,39 @@
 * Start implementing figma design in app.
 * do some changes in design & then apply changes in app.
 
-# week 6 Figma
+# week 7 Figma
 * do some changes in UI/UX design.
 * add some features and the features are edit  product, print bill  etc.
 * change background image or icons. 
 
-# week 7 Android Studio Project(TODO)
+# week 8 Android Studio Project(TODO)
 * follow UI/UX design and start implementing in Android studio.
 *  create login or dashborad page
 *  in dasboard make grid view or divide into column and row
 *  add some other features for eg : item report,add product 
 *  Perform testing app is working is Fine or not.
 
-# week 8  Bootstrap
+# week 9 Bootstrap
 * Study  propertys of Bootstrap FROM (https://getbootstrap.com/).
 * Perform some task's of Bootstrap. (Slide Bar, Containers, Nav Bar & others)
 * Make a Simple form
 * Make stack web page with help of HTML CSS & Bootstrap.
 * Make changes in the Web page with added some new tools.
 
-# week 9 Front-end Development
+# week 10 Front-end Development
 * Start creating stack web page template with HTML CSS & BOOTSTRAP
 * Take some help from (https://www.w3schools.com/)
 * 
 * 
 
 
-# week 10  Front-end Development Piano
+# week 11  Front-end Development Piano
 * find some content(Prayer's) & background or Images from the internet raleted to the web page.
 * add  Text slideshow.
 * start implimenting content in the web page
 * fetch all page with each other in sequences
 
-# week 11 Front-end Development Piano
+# week 12 Front-end Development Piano
 *  learning javascrpit from YOUTUBE.
 * find Audio Clips of Piano 
 * create layout of piano
@@ -67,11 +69,31 @@
 * Check connectivity & testing of audio clip is working fine or not
 * after testing done connect with prevoiuse web page.
  
-# week 12 React
-# week 13 Node.js
-# week 14 Redux
-# week 15 firebase
-# week 16 17 18 E Commerce Web Page
+# week 13 React Redux
+* watch React Tutorail from YOUTUBE [Code with harry (https://www.youtube.com/watch?v=RGKi6LSPDLU&t=1757s)]
+* follow guidlines and install node.js
+* create Window Work Environment and install some compulsoary plugins or module
+* perform basic tasks of react and run page at localhost
+
+# week 14 Node.js
+* watch Node.js Tutorail From YOUTuBE (https://www.youtube.com/watch?v=BLl32FvcdVM)
+*  follow guidlines and install node.js
+* create Window Work Environment and install some compulsoary plugins or module
+* perform basic tasks of react and run page at localhos
+
+# week 15  firebase
+* Exploring Firebase 
+* study Documentory of Firebase (https://firebase.google.com/docs?gclid=CjwKCAiAqt-dBhBcEiwATw-ggCfWdBfKuK3Dq2YaVELsIh2uI82NTcKvNLgTKYOqZvtC_APdidDGBxoCHokQAvD_BwE&gclsrc=aw.ds)
+* watching vedios & how it was working
+* Try demo 
+
+# week 16 firebase
+* follow some guideline and try demo  
+* try to fetch data with firebase
+* resolve the errors that comes from firebase
+
+# week 17  Full Stack React Ecommerce Website
+*
 
 
 
