@@ -93,8 +93,32 @@
 * resolve the errors that comes from firebase
 
 # week 17  Full Stack React Ecommerce Website
-*
+* install git
+* install node modules and  node,js or thier packages
+* find  images related to the web page
+* create multipple file in react and name them (home, shop, cart, product detail) 
+* setup routers file and connect with all files
+* create layout file
+* creating header and footer layout
+* add some motions features on buttons
 
+# week 18 Full Stack React Ecommerce Website Part-2
+* install toastify
+* add Products and fetch the images accordiing to the category
+* in shop page creating product related similar products.
+* and describe product details ( amount , brand, rating)
+* create to cart feature 
+* add some motion on the click able buttons.
+* creating login and singup pages and connect them with firebase
+* authenticate the login or singup credentials details
+
+#week 19 Full Stack React Ecommerce Website Part-3
+* ftech files in sequence way
+*  create checkout page 
+*  generate Sub-Total & Total amount 
+*  start admin panel work ( addproducts , dashboard, orders)
+*  connect firebase with admin panel
+*  fetch all details through firebase & admin panel  
 
 
 
