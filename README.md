@@ -112,7 +112,7 @@
 * creating login and singup pages and connect them with firebase
 * authenticate the login or singup credentials details
 
-#week 19 Full Stack React Ecommerce Website Part-3
+# week 19 Full Stack React Ecommerce Website Part-3
 * ftech files in sequence way
 *  create checkout page 
 *  generate Sub-Total & Total amount 
