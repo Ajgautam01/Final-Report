@@ -55,13 +55,13 @@
 * 
 
 
-# week 11  Front-end Development Piano
+# week 11  Front-end Design Piano
 * find some content(Prayer's) & background or Images from the internet raleted to the web page.
 * add  Text slideshow.
 * start implimenting content in the web page
 * fetch all page with each other in sequences
 
-# week 12 Front-end Development Piano
+# week 12 Front-end Design Piano
 *  learning javascrpit from YOUTUBE.
 * find Audio Clips of Piano 
 * create layout of piano
