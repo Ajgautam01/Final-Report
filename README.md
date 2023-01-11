@@ -41,14 +41,17 @@
 *  add some other features for eg : item report,add product 
 *  Perform testing app is working is Fine or not.
 
-# week 9 Bootstrap
+# week 9  Andriod Studio Project Calculator
+
+
+# week 10 Bootstrap
 * Study  propertys of Bootstrap FROM (https://getbootstrap.com/).
 * Perform some task's of Bootstrap. (Slide Bar, Containers, Nav Bar & others)
 * Make a Simple form
 * Make stack web page with help of HTML CSS & Bootstrap.
 * Make changes in the Web page with added some new tools.
 
-# week 10 Front-end Development
+# week 11 Front-end Development
 * Start creating stack web page template with HTML CSS & BOOTSTRAP
 * Take some help from (https://www.w3schools.com/)
 * make template using Bootsrap
@@ -56,13 +59,13 @@
 * add fav icons.
 
 
-# week 11  Front-end Design Piano
+# week 12 Front-end Design Piano
 * find some content(Prayer's) & background or Images from the internet raleted to the web page.
 * add  Text slideshow.
 * start implimenting content in the web page
 * fetch all page with each other in sequences
 
-# week 12 Front-end Design Piano
+# week 13 Front-end Design Piano
 *  learning javascrpit from YOUTUBE.
 * find Audio Clips of Piano 
 * create layout of piano
@@ -70,44 +73,43 @@
 * Check connectivity & testing of audio clip is working fine or not
 * after testing done connect with prevoiuse web page.
  
-# week 13 React Redux
+# week 14 React Redux
 * watch React Tutorail from YOUTUBE  (https://www.youtube.com/watch?v=RGKi6LSPDLU&t=1757s)
 * follow guidlines and install node.js
 * create Window Work Environment and install some compulsoary plugins or module
 * perform basic tasks of react and run page at localhost
 
-# week 14 React
+# week 15 React
 * Read some Component and Blog of react from the (https://reactjs.org/)
 * Check the some codes & how react work actually.
 * explore some developer tools of react
 * checking the conditions & try to apply them.   
 
-# week 15 Node.js
+# week 16 Node.js
 * watch Node.js Tutorail From YOUTuBE (https://www.youtube.com/watch?v=BLl32FvcdVM)
 *  follow guidlines and install node.js
 * create Window Work Environment and install some compulsoary plugins or module
 * perform basic tasks of react and run page at localhos
 
-# week 16 firebase
+# week 17 firebase
 * Exploring Firebase 
 * study Documentory of Firebase (https://firebase.google.com/docs?gclid=CjwKCAiAqt-dBhBcEiwATw-ggCfWdBfKuK3Dq2YaVELsIh2uI82NTcKvNLgTKYOqZvtC_APdidDGBxoCHokQAvD_BwE&gclsrc=aw.ds)
 * watching vedios & how it was working
 * Try demo 
 
-# week 17 firebase
+# week 18 firebase
 * follow some guideline and try demo  
 * try to fetch data with firebase
 * resolve the errors that comes from firebase
 
-# Week 18 Figma Design Full Stack React Ecommerce Website
-
+# Week 19 Figma Design Full Stack React Ecommerce Website
 * Start Making UI/UX(Blueprint) design.
 * Create Home page & shop shop
 * first create Login or Signup page of Project.
 * Create Dashboard & other Functions.
 * do some changes in design & then apply changes in app.
 
-# week 19 Full Stack React Ecommerce Website
+# week 20 Full Stack React Ecommerce Website
 * install git
 * install node modules and  node,js or thier packages
 * find  images related to the web page
@@ -117,7 +119,7 @@
 * creating header and footer layout
 * add some motions features on buttons
 
-# week 20 Full Stack React Ecommerce Website Part-2
+# week 21 Full Stack React Ecommerce Website Part-2
 * install toastify
 * add Products and fetch the images accordiing to the category
 * in shop page creating product related similar products.
@@ -127,7 +129,7 @@
 * creating login and singup pages and connect them with firebase
 * authenticate the login or singup credentials details
 
-# week 21 Full Stack React Ecommerce Website Part-3
+# week 22 Full Stack React Ecommerce Website Part-3
 * fetch files in sequence way
 *  create checkout page 
 *  generate Sub-Total & Total amount 
