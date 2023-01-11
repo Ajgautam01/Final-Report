@@ -51,8 +51,9 @@
 # week 10 Front-end Development
 * Start creating stack web page template with HTML CSS & BOOTSTRAP
 * Take some help from (https://www.w3schools.com/)
-* 
-* 
+* make template using Bootsrap
+* add slidebar and navigation
+* add fav icons.
 
 
 # week 11  Front-end Design Piano
