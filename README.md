@@ -93,7 +93,15 @@
 * try to fetch data with firebase
 * resolve the errors that comes from firebase
 
-# week 17  Full Stack React Ecommerce Website
+Week 17 Figma Design Full Stack React Ecommerce Website
+
+* Start Making UI/UX(Blueprint) design.
+* Create Home page & shop shop
+* first create Login or Signup page of Project.
+* Create Dashboard & other Functions.
+* do some changes in design & then apply changes in app.
+
+# week 18  Full Stack React Ecommerce Website
 * install git
 * install node modules and  node,js or thier packages
 * find  images related to the web page
@@ -103,7 +111,7 @@
 * creating header and footer layout
 * add some motions features on buttons
 
-# week 18 Full Stack React Ecommerce Website Part-2
+# week 19 Full Stack React Ecommerce Website Part-2
 * install toastify
 * add Products and fetch the images accordiing to the category
 * in shop page creating product related similar products.
@@ -113,7 +121,7 @@
 * creating login and singup pages and connect them with firebase
 * authenticate the login or singup credentials details
 
-# week 19 Full Stack React Ecommerce Website Part-3
+# week 20 Full Stack React Ecommerce Website Part-3
 * fetch files in sequence way
 *  create checkout page 
 *  generate Sub-Total & Total amount 
