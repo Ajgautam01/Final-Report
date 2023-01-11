@@ -71,29 +71,35 @@
 * after testing done connect with prevoiuse web page.
  
 # week 13 React Redux
-* watch React Tutorail from YOUTUBE [Code with harry (https://www.youtube.com/watch?v=RGKi6LSPDLU&t=1757s)]
+* watch React Tutorail from YOUTUBE  (https://www.youtube.com/watch?v=RGKi6LSPDLU&t=1757s)
 * follow guidlines and install node.js
 * create Window Work Environment and install some compulsoary plugins or module
 * perform basic tasks of react and run page at localhost
 
-# week 14 Node.js
+# week 14 React
+* Read some Component and Blog of react from the (https://reactjs.org/)
+* Check the some codes & how react work actually.
+* explore some developer tools of react
+* checking the conditions & try to apply them.   
+
+# week 15 Node.js
 * watch Node.js Tutorail From YOUTuBE (https://www.youtube.com/watch?v=BLl32FvcdVM)
 *  follow guidlines and install node.js
 * create Window Work Environment and install some compulsoary plugins or module
 * perform basic tasks of react and run page at localhos
 
-# week 15  firebase
+# week 16 firebase
 * Exploring Firebase 
 * study Documentory of Firebase (https://firebase.google.com/docs?gclid=CjwKCAiAqt-dBhBcEiwATw-ggCfWdBfKuK3Dq2YaVELsIh2uI82NTcKvNLgTKYOqZvtC_APdidDGBxoCHokQAvD_BwE&gclsrc=aw.ds)
 * watching vedios & how it was working
 * Try demo 
 
-# week 16 firebase
+# week 17 firebase
 * follow some guideline and try demo  
 * try to fetch data with firebase
 * resolve the errors that comes from firebase
 
-# Week 17 Figma Design Full Stack React Ecommerce Website
+# Week 18 Figma Design Full Stack React Ecommerce Website
 
 * Start Making UI/UX(Blueprint) design.
 * Create Home page & shop shop
@@ -101,7 +107,7 @@
 * Create Dashboard & other Functions.
 * do some changes in design & then apply changes in app.
 
-# week 18  Full Stack React Ecommerce Website
+# week 19 Full Stack React Ecommerce Website
 * install git
 * install node modules and  node,js or thier packages
 * find  images related to the web page
@@ -111,7 +117,7 @@
 * creating header and footer layout
 * add some motions features on buttons
 
-# week 19 Full Stack React Ecommerce Website Part-2
+# week 20 Full Stack React Ecommerce Website Part-2
 * install toastify
 * add Products and fetch the images accordiing to the category
 * in shop page creating product related similar products.
@@ -121,7 +127,7 @@
 * creating login and singup pages and connect them with firebase
 * authenticate the login or singup credentials details
 
-# week 20 Full Stack React Ecommerce Website Part-3
+# week 21 Full Stack React Ecommerce Website Part-3
 * fetch files in sequence way
 *  create checkout page 
 *  generate Sub-Total & Total amount 
