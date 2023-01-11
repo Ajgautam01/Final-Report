@@ -93,7 +93,7 @@
 * try to fetch data with firebase
 * resolve the errors that comes from firebase
 
-Week 17 Figma Design Full Stack React Ecommerce Website
+# Week 17 Figma Design Full Stack React Ecommerce Website
 
 * Start Making UI/UX(Blueprint) design.
 * Create Home page & shop shop
